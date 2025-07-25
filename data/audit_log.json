@@ -1,0 +1,43 @@
+[
+    {
+        "event_type": "ANNOUNCEMENT",
+        "user_id": 692387066612547625,
+        "user_name": "mekdam",
+        "timestamp": "2025-07-25T16:43:11.018292+00:00",
+        "details": {
+            "title": "GANK PING"
+        }
+    },
+    {
+        "event_type": "GANK_PING",
+        "user_id": 692387066612547625,
+        "user_name": "mekdam",
+        "timestamp": "2025-07-25T16:18:59.176608+00:00",
+        "details": {
+            "enemy_guild": "test",
+            "server": "sry agaiiin guys",
+            "pinged_count": 11
+        }
+    },
+    {
+        "event_type": "ALLY_MEMBER_ADD",
+        "user_id": 602848260767481876,
+        "user_name": "yyharnam",
+        "timestamp": "2025-07-25T16:16:19.615010+00:00",
+        "details": {
+            "guild_name": "Yharnamites",
+            "member": "domke5733"
+        }
+    },
+    {
+        "event_type": "GANK_PING",
+        "user_id": 692387066612547625,
+        "user_name": "mekdam",
+        "timestamp": "2025-07-25T16:15:33.218259+00:00",
+        "details": {
+            "enemy_guild": "test",
+            "server": "test sorry guys",
+            "pinged_count": 7
+        }
+    }
+]
